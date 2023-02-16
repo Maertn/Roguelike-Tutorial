@@ -1,0 +1,2 @@
+This is the product of following a tutorial which is aimed at learning Python through the creation of a roguelike using the TCOD library.
+The tutorial can be found at: https://www.rogueliketutorials.com/tutorials/tcod/v2/
